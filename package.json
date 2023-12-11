@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "pretest": "echo foo",
     "test": "node app.js"
   },
   "dependencies": {
