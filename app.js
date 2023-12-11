@@ -1,1 +1,1 @@
-console.log('hoge')
+throw 'hoge'
